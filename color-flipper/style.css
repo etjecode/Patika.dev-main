@@ -1,0 +1,25 @@
+h1 {
+    background: #000000;
+    color: #ffffff;
+    padding: 8px;
+    border-radius: 2px;
+  }
+
+.button {
+  color: #000000;
+  padding: 6px 10px;
+  border: 2px solid #000000;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.color {
+  color: #ffffff;
+}
+
+.container {
+  font-family: sans-serif;
+  font-size: 8px;
+  color: #000000;
+  text-align: center;
+}
